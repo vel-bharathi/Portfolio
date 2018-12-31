@@ -9,7 +9,7 @@ class App extends Component {
         <div className="background">
           <div className="cloud"></div>
           <div className="moon">
-            
+                
           </div>
           {/* <div className="star star1-animation"></div>
           <div className="star star2-animation"></div>
